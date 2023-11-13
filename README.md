@@ -1,3 +1,3 @@
 # starter-joey-thinkful
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+Thinkful/Chegg assessment to build a responsive navigation that has two different views for mobile and desktop.
